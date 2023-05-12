@@ -38,3 +38,8 @@
     width: 80px;
     padding: 20px;
   }
+.navbar a:hover{
+    background-color: brown;
+
+}
+
